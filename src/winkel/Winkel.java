@@ -39,6 +39,8 @@ class WinkelPaneel extends JPanel
          Artikel art3 = new Artikel(3, "horloge", 30.00);
         bestelling.voegtoe(art3);
         
+        //Hallo
+        
         factuurVeld = new JTextArea(10, 25);
         
         knop = new JButton("Bestelling");
